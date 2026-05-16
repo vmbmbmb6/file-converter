@@ -1,0 +1,9 @@
+node_modules
+server/uploads
+server/outputs
+server/public
+client/.env
+client/.env.local
+.env
+.DS_Store
+*.log
